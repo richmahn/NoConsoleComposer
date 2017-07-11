@@ -1,4 +1,4 @@
-NoConsoleComposer
+NoConsoleComposerr
 =================
 
 PHP script that can help you run composer even if you don't have SSH access to your server.
